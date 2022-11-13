@@ -1,16 +1,42 @@
-### Hi there 👋
 
-<!--
-**jabbourdan/jabbourdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Logo](https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there 👋 , Welcome to my GitHub account
+- ⚡ My name is Jabbour Dandan
+- 📜 I have a B.sc computer science degree
+- 👀 I'm interested in ⚽🎮🏋️
+
+
+## 🚀 About Me
+
+                I'm a passionate DevOps student, ⚡taking my first steps⚡
+
+Aws re/start graduate Certified Amazon Cloud Practitioner with good knowledge base in
+Networking, Linux, Aws Cloud, Python, SQL, experienced.
+Experienced with Technical Support, Problem Solving and Customer Satisfaction.
+With a strong affinity for technological word, looking for my next challenge.
+
+
+## My Skill Set
+
+- ✨ Amazon Web Services (AWS)
+- 🌟 Docker 
+- 💫 Jenkins
+- 📖 Terraform
+- 🖥️ Kubernetes
+- 💼 CI/CD
+- 🗄️ Data structure and algorithm
+- 💡 Git , GitHub 
+- 👨🏻‍💻 Python , Java
+- 📈 Linux
+- 💽 MySQL
+- 💾 MongoDB
+
+
+## 🔗 How to Reach Me
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/jabbourdan?tab=repositories)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jabbour-dandan/)
+
+ 
+
