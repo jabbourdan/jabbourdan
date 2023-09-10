@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-                I'm a passionate DevOps student, ⚡taking my first steps⚡
+                I'm a passionate software student, ⚡taking my first steps⚡
 
 Aws re/start graduate Certified Amazon Cloud Practitioner with good knowledge base in
 Networking, Linux, Aws Cloud, Python, SQL, experienced.
@@ -19,7 +19,8 @@ With a strong affinity for technological word, looking for my next challenge.
 
 
 ## My Skill Set
-
+- ⚡ c/c++
+- - 👨🏻‍💻 Python , Java
 - ✨ Amazon Web Services (AWS)
 - 🌟 Docker 
 - 💫 Jenkins
@@ -28,7 +29,6 @@ With a strong affinity for technological word, looking for my next challenge.
 - 💼 CI/CD
 - 🗄️ Data structure and algorithm
 - 💡 Git , GitHub 
-- 👨🏻‍💻 Python , Java
 - 📈 Linux
 - 💽 MySQL
 - 💾 MongoDB
