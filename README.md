@@ -20,15 +20,12 @@ With a strong affinity for technological word, looking for my next challenge.
 
 ## My Skill Set
 - ⚡ c/c++
-- - 👨🏻‍💻 Python , Java
+- 👨‍🎓 C#, ASP.net MVC
+- 👨 HTML,CSS
+- 👨🏻‍💻 Python 3
 - ✨ Amazon Web Services (AWS)
-- 🌟 Docker 
-- 💫 Jenkins
-- 📖 Terraform
-- 🖥️ Kubernetes
-- 💼 CI/CD
 - 🗄️ Data structure and algorithm
-- 💡 Git , GitHub 
+- 💡 Git, GitHub 
 - 📈 Linux
 - 💽 MySQL
 - 💾 MongoDB
